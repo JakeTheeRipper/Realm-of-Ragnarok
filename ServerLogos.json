@@ -4,7 +4,7 @@
       
         	"URL": "https://drive.google.com/uc?export=download&id=1dwQP9dhnzyHfffrg1b9a2Jxz8onE5GR3",
         	"Pos": "BottomLeft",
-        	"Persist": false,
+        	"Persist": true,
         	"FadeTime": 5
         }
 	]
